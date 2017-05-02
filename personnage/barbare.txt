@@ -1,0 +1,3 @@
+nom:        mana:       Vie:      competence:                      besoin(de mana): 		degat(sur vie du monstre):
+barbare     30          30        UTILISER_DEUX_ARMES               5						-8
+			          LANCER_UN_COUTEAU                 0						-4

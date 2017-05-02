@@ -1,0 +1,4 @@
+nom:        mana:       Vie:      competence:                    besoin(de mana):           degat(sur vie du Personnage):
+tapator     25          25        TIRER_A_ARC                      4                             -7
+				  UTILISER_DEUX_ARMES              5                             -8
+				  LANCER_DU_FEU                    3                             -10

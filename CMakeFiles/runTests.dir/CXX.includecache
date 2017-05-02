@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wael/Téléchargements/GLDV/plan.h
+
+/home/wael/Téléchargements/GLDV/tests.cpp
+whattotest.cpp
+/home/wael/Téléchargements/GLDV/whattotest.cpp
+gtest/gtest.h
+-
+
+/home/wael/Téléchargements/GLDV/whattotest.cpp
+iostream
+-
+fstream
+-
+string
+-
+stdlib.h
+-
+time.h
+-
+plan.h
+/home/wael/Téléchargements/GLDV/plan.h
+

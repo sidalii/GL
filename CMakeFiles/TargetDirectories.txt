@@ -1,0 +1,3 @@
+/home/wael/Téléchargements/GLDV/CMakeFiles/edit_cache.dir
+/home/wael/Téléchargements/GLDV/CMakeFiles/rebuild_cache.dir
+/home/wael/Téléchargements/GLDV/CMakeFiles/runTests.dir

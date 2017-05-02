@@ -1,0 +1,4 @@
+nom:        mana:       Vie:      competence:                             besoin(de mana):           degat(sur vie du Personnage):
+xana         25          25        UTILISER_UNE_ARME                          0					   -5
+				   LANCER_UN_COUTEAU                          0				           -4
+				   DONNER_DES_COUPS_DE_POING                  0                                    -2

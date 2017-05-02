@@ -1,0 +1,3 @@
+nom:        mana:       Vie:      competence:                          besoin(de mana): 		degat(sur vie du monstre):
+sorciere     35          35       LANCER_DU_FEU                          3						-10
+			 	  DONNER_DES_COUPS_DE_POING              0                                               -2 
