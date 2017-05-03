@@ -10,7 +10,7 @@ using namespace std;
 }
 
 TEST(vieTest, constructeur){
-	ASSERT_EQ(35, personnage::creerPersonnage("sorciere")->vie);
+	ASSERT_EQ(33, personnage::creerPersonnage("sorciere")->vie);
 }
 
 TEST(competenceTest, constructeur){
