@@ -10,7 +10,11 @@ using namespace std;
 }
 
 TEST(vieTest, constructeur){
+<<<<<<< HEAD
+	ASSERT_EQ(35, personnage::creerPersonnage("sorciere")->vie);
+=======
 	ASSERT_EQ(33, personnage::creerPersonnage("sorciere")->vie);
+>>>>>>> 7ca8c798ad741aedc6cfb21ef11edb669bec0f62
 }
 
 TEST(competenceTest, constructeur){
@@ -36,7 +40,11 @@ TEST(effetAttaque, viePersonnage){
 	monstre m(p);
 	personnage *per=personnage::creerPersonnage("barbare");
 	m.effet_attaque(2,per);
+<<<<<<< HEAD
+	ASSERT_EQ(30, per->vie);
+=======
 	ASSERT_EQ(20, per->vie);
+>>>>>>> 7ca8c798ad741aedc6cfb21ef11edb669bec0f62
 }
 
 TEST(effetAttaque, vieMonstre){
