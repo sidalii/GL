@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="9" failures="0" disabled="0" errors="0" timestamp="2017-05-03T04:25:14" time="0.01" name="AllTests">
+  <testsuite name="fichier_client" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="plan" status="run" time="0" classname="fichier_client" />
+  </testsuite>
+  <testsuite name="vieTest" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="constructeur" status="run" time="0" classname="vieTest" />
+  </testsuite>
+  <testsuite name="competenceTest" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="constructeur" status="run" time="0" classname="competenceTest" />
+  </testsuite>
+  <testsuite name="pos_col" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="constructeur" status="run" time="0" classname="pos_col" />
+  </testsuite>
+  <testsuite name="pos_lig" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="constructeur" status="run" time="0" classname="pos_lig" />
+  </testsuite>
+  <testsuite name="nombreMonstre" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="plan" status="run" time="0" classname="nombreMonstre" />
+  </testsuite>
+  <testsuite name="effetAttaque" tests="2" failures="0" disabled="0" errors="0" time="0.001">
+    <testcase name="viePersonnage" status="run" time="0.001" classname="effetAttaque" />
+    <testcase name="vieMonstre" status="run" time="0" classname="effetAttaque" />
+  </testsuite>
+  <testsuite name="fichier_amazone" tests="1" failures="0" disabled="0" errors="0" time="0.008">
+    <testcase name="ErrorMessage" status="run" time="0.008" classname="fichier_amazone" />
+  </testsuite>
+</testsuites>
